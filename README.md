@@ -1,4 +1,4 @@
-# graphql-client
+# graphql-net-client
 Very simple GraphQL client for .NET/C#
 
 ## Typed result
