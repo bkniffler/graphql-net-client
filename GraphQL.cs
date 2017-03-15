@@ -5,11 +5,11 @@ using System.IO;
 using System.Net;
 using System.Text;
 
-namespace AeraMed.Common
+namespace GraphQL
 {
     public class GraphQLClient
     {
-        class GraphQLQuery
+        private class GraphQLQuery
         {
             // public string OperationName { get; set; }
             public string query { get; set; }
