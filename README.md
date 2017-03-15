@@ -1,5 +1,6 @@
 # graphql-net-client
-Very simple GraphQL client for .NET/C#
+Very simple GraphQL client for .NET/C#.
+Requires JSON.NET!
 
 ## Typed result
 ```cs
